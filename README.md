@@ -32,3 +32,6 @@ var defaultHotKey: { [key: string]: { [key: string]: command } } = {
 }
 
 ```
+
+## 使用方法
+直接调用dst目录下的wangEditor.js
